@@ -6,10 +6,10 @@ CI/CD offers ongoing automation and continuous monitoring throughout the whole s
 
 Some popular tools for implementing CI/CD include:
 
-Jenkins: An open-source automation server that can be used to automate tasks such as building, testing, and deploying code changes.
-CircleCI: A cloud-based CI/CD platform that provides an easy-to-use interface which allows automation across the user’s pipeline, from code building, testing to deployment. 
-Travis CI: A cloud-based CI/CD platform that is popular among open-source projects and is easy to set up and use.
-GitLab: A CI/CD platform that is built into the GitLab code repository and issue tracking platform.
+1.Jenkins: An open-source automation server that can be used to automate tasks such as building, testing, and deploying code changes.
+2.CircleCI: A cloud-based CI/CD platform that provides an easy-to-use interface which allows automation across the user’s pipeline, from code building, testing to deployment. 
+3.Travis CI: A cloud-based CI/CD platform that is popular among open-source projects and is easy to set up and use.
+4.GitLab: A CI/CD platform that is built into the GitLab code repository and issue tracking platform.
 
 Using a CI/CD tool can help to streamline the development process by automating repetitive tasks such as building and testing code changes.. Allowing developers to focus on writing code, helps to improve the efficiency and speed of software development, and ensure code changes are tested and deployed in a reliable and consistent manner.
 
