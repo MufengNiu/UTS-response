@@ -1,5 +1,7 @@
 Continuous integration (CI) is a software development practice in which code changes are regularly built, tested, and validated after being merged into a shared repository. The goal of CI is to prevent integration problems,  ensuring the codebase is always in a deployable state, and provide rapid feedback to developers. 
+
 Continuous delivery (CD) is a software engineering approach in which code changes from the repository are automatically built, tested, and deployed to production. The goal of CD is to ensure that new code changes can be safely and quickly released to users and prevent problems such as overloading operations teams with manual processes which slow down app delivery.
+
 CI/CD offers ongoing automation and continuous monitoring throughout the whole software development lifetime, from the integration and testing phase to delivery and deployment. Development and operations terms collaborate in an agile manger using either a DevOps or site reliability engineering methodology, and these interconnected processes are collectively referred to as a” CI/CD pipeline”
 
 Some popular tools for implementing CI/CD include:
